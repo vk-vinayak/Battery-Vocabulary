@@ -1,0 +1,10 @@
+{
+    "@context":{
+        "id":"@id",
+        "type":"@type",
+        "battery":"https://vk-vinayak.github.io/Battery-Vocabulary#",
+        "batteryChemistry":{
+            "@id":"battery:batteryChemistry"
+        }
+    }
+}
